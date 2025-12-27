@@ -1,2 +1,3 @@
 setuptools
 pygame
+-e external/pygame_cards_base

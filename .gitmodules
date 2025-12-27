@@ -1,0 +1,3 @@
+[submodule "external/pygame_cards_base"]
+	path = external/pygame_cards_base
+	url = git@github.com:toyat522/pygame_cards_base.git
